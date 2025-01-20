@@ -58,8 +58,8 @@ This project implements a Vision-Language Model (VLM)-based system to classify i
 
 ### **1. Clone the Repository**
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone [<repository-url>](https://github.com/aylinaydincs/FireAndSmoke)
+cd FireAndSmoke
 ```
 
 ### **2. Install Dependencies**
