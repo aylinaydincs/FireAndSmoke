@@ -97,7 +97,10 @@ pip install -r requirements.txt
 Train the model using:
 ```bash
 python train.py
+
 ```
+or Download model following link:
+[Trained Model](https://drive.google.com/file/d/1KzQvzP6BCvWk3dSEVdNtS5BmFQ7_j7Hi/view?usp=sharing)
 
 ### **Parameters**
 - `yaml_path`: Path to the dataset YAML file (default: `data/data.yaml`).
