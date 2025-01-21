@@ -44,11 +44,7 @@ This project implements a Vision-Language Model (VLM)-based system to classify i
    - A classification head (linear layer) was added to classify the image into one of the three categories.
    - The model was trained using PyTorch with CrossEntropy loss.
 
-3. **Evaluation**:
-   - The trained model was evaluated using accuracy, loss, and F1-score metrics on the validation set.
-   - Validation was performed to ensure robust performance across unseen images.
-
-4. **Deployment**:
+3. **Deployment**:
    - A FastAPI-based API was developed to allow users to upload images and receive predictions in real time.
    - Predictions return probabilities for each class (fire, smoke, no fire/smoke).
 
